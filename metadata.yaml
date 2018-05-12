@@ -1,0 +1,32 @@
+_repo: Pikku-kuvia-el-m-st-_45073
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Päivärinta, Pietari
+    alias: Paivarinta, Pietari
+    birthdate: 1827
+    deathdate: 1913
+    gutenberg_agent_id: '5555'
+    url: http://www.gutenberg.org/2009/agents/5555
+    wikipedia: http://fi.wikipedia.org/wiki/Pietari_P%C3%A4iv%C3%A4rinta
+description: ''
+gutenberg_issued: '2014-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45073'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction'
+- !lcc 'PH'
+tableOfContents: Alkulause -- Sammunut ihmisyys -- Amma -- Väärällä paikalla -- Väärällä
+  jäljellä -- Pötikkä -- Säälimätön -- Kova isä -- Kurjuutta -- Sairas -- Hento sielu
+  -- Kultaseppä -- Surua -- Rakastuneet -- Tehtailijoita -- Veljekset.
+title: Pikku kuvia elämästä
+url: http://www.gutenberg.org/ebooks/45073
